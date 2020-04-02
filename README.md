@@ -14,3 +14,17 @@ Some important concepts in the data & modeling process:
 -”TS%”: True Shooting Percentage, formula: ”Points/(2*True Shooting Attempts)”; takes into account field goals, 3-point field goals, and free throws
 -“FT%”: Free Throw Percentage, formula: “Free Throws/Free Throw Attempts”
 -”TOV%”: Turnover Percentage, formula: “100*Turnovers/(Field Goal Attempts + 0.44*Free Throws Attempts + Turnovers)”
+
+
+More useful links:
+
+Glossary from “Basketball reference” (main Kaggle data original source) for data understanding:
+https://www.basketball-reference.com/about/glossary.html
+
+More NBA general context(history) understanding:
+https://en.wikipedia.org/wiki/List_of_National_Basketball_Association_seasons
+https://en.wikipedia.org/wiki/National_Basketball_Association
+
+Team PCT & Rank data for season 2004-2005 and afterwards:
+https://www.teamrankings.com/nba/stat/win-pct-all-games?date=2005-06-24
+Team PCT & Rank data for season before 2004-2005: organized from Wikipedia
